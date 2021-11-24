@@ -1,16 +1,21 @@
-### Hi there 👋
+### Um pouco sobre mim!  👋
 
-<!--
-**ThiagoGuerra09/ThiagoGuerra09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, sou o Thiago Guerra tenho 18 anos, facilidade em relacionamento interpessoal, boa oratória e muita proatividade em encarar novos desafios. 
+Atualmente estou cursando o 2º período de Ciências da Computação na PUC Minas.💻
 
-Here are some ideas to get you started:
+-Profissional dinâmico e engajado no aprendizado de novas tecnologias. 
+-Facilidade em trabalhar em equipe e de lidar com pessoas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Tenho conhecimento em front-end e em back-end.
+
+-Conhecimento em Linguagem C, Java, JavaScript, HTML, CSS.
+
+-Facilidade também com Linux, Git e SQL.
+
+<img height ="580em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoGuerra09&theme=blue-green"/>
+
+-Contatos 📁:
+<div>
+<a href =https://www.linkedin.com/in/thiago-guerra-werkhaizer-felipe-136ab7207/ target="_blank"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href ="mailto:thiagogwf@gmail.com"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
