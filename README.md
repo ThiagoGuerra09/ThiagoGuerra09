@@ -13,6 +13,8 @@ Atualmente estou cursando o 2º período de Ciências da Computação na PUC Min
 
 -Facilidade também com Linux, Git e SQL.
 
+-Inglês intermediário/avançado.
+
 <img height ="580em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoGuerra09&theme=blue-green"/>
 
 -Contatos 📁:
