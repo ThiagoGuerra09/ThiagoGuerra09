@@ -17,6 +17,7 @@ Atualmente estou cursando o 3º período de Ciências da Computação na PUC Min
 
 <img height ="580em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoGuerra09&theme=blue-green"/>
 
+
 -Contatos 📁:
 <div>
 <a href =https://www.linkedin.com/in/thiago-guerra-werkhaizer-felipe-136ab7207/ target="_blank"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
