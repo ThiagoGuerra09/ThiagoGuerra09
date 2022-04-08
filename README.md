@@ -15,7 +15,7 @@ Atualmente estou cursando o 3º período de Ciências da Computação na PUC Min
 
 -Inglês intermediário/avançado.
 
-<img height ="580em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoGuera09&theme=blue-green"/>
+<img height ="580em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoGuerra09&theme=blue-green"/>
 
 
 -Contatos 📁:
