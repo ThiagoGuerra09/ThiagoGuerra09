@@ -15,7 +15,22 @@ Atualmente estou cursando o 3º período de Ciências da Computação na PUC Min
 
 -Inglês intermediário/avançado.
 
-<img height ="580em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoGuerra09&theme=blue-green"/>
+
+<div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoGuerra09&layout=compact&theme=graywhite&hide_border=true" width="313" />
+
+   <img src="https://github-readme-stats.vercel.app/api?username=ThiagoGuerra09&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="440"/>
+</div>
+
+
+
+<div>
+&nbsp;
+<a href="#">
+  <img align="right" src="https://komarev.com/ghpvc/?username=ThiagoGuerra09&style=flat-square" height="20" />
+</a>
+  <img align="right" src="https://user-images.githubusercontent.com/17799292/129620557-469dd0b5-c912-453c-813e-d158d180fb40.png" height="20" width="20" />
+</div>
 
 
 -Contatos 📁:
