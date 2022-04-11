@@ -17,7 +17,7 @@ Atualmente estou cursando o 3º período de Ciências da Computação na PUC Min
 
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoGuerra09&layout=compact&theme=graywhite&hide_border=true" width="313" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoGuerra09&layout=compact&langs_count=7&theme=react" />
 
    <img src="https://github-readme-stats.vercel.app/api?username=ThiagoGuerra09&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="440"/>
 </div>
@@ -38,5 +38,10 @@ Atualmente estou cursando o 3º período de Ciências da Computação na PUC Min
 <a href =https://www.linkedin.com/in/thiago-guerra-werkhaizer-felipe-136ab7207/ target="_blank"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href ="mailto:thiagogwf@gmail.com"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+
+
+  ![Snake animation](https://github.com/ThiagoGuerra09/ThiagoGuerra09/blob/output/github-contribution-grid-snake.svg)
+
 
  
