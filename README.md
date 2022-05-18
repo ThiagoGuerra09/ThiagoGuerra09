@@ -9,7 +9,7 @@ Atualmente estou cursando o 3º período de Ciências da Computação na PUC Min
 
 -Tenho conhecimento em front-end e em back-end.
 
--Conhecimento em Linguagem C, Java, JavaScript, HTML, CSS.
+-Conhecimento em Linguagem C, Java, JavaScript, HTML, CSS, Python.
 
 -Facilidade também com Linux, Git e SQL.
 
