@@ -11,6 +11,8 @@ Atualmente estou cursando o 5º período de Ciências da Computação na PUC Min
 
 -Conhecimento em Linguagem C, Java, JavaScript, HTML, CSS, Python.
 
+-Desenvolvedor Flutter/dart.
+
 -Facilidade também com Linux, Git e SQL.
 
 -Inglês intermediário/avançado.
