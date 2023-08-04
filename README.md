@@ -1,7 +1,7 @@
 ### Um pouco sobre mim!  👋
 
 Olá, sou o Thiago Guerra tenho 20 anos, facilidade em relacionamento interpessoal, boa oratória e muita proatividade em encarar novos desafios. 
-Atualmente estou cursando o 5º período de Ciências da Computação na PUC Minas.💻
+Atualmente estou cursando o 6º período de Ciências da Computação na PUC Minas.💻
 
 -Profissional dinâmico e engajado no aprendizado de novas tecnologias. 
 
