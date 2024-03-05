@@ -1,6 +1,6 @@
 ### Um pouco sobre mim!  👋
 
-Olá, sou o Thiago Guerra tenho 20 anos, facilidade em relacionamento interpessoal, boa oratória e muita proatividade em encarar novos desafios. 
+Olá, sou o Thiago Guerra tenho 21 anos, facilidade em relacionamento interpessoal, boa oratória e muita proatividade em encarar novos desafios. 
 Atualmente estou cursando o 6º período de Ciências da Computação na PUC Minas.💻
 
 -Profissional dinâmico e engajado no aprendizado de novas tecnologias. 
@@ -9,11 +9,9 @@ Atualmente estou cursando o 6º período de Ciências da Computação na PUC Min
 
 -Tenho conhecimento em front-end e em back-end.
 
--Conhecimento em Linguagem C, Java, JavaScript, HTML, CSS, Python.
+-Conhecimento em Linguagem C, Java, JavaScript, HTML, CSS, Python, Firebase.
 
 -Desenvolvedor Flutter/dart.
-
--Facilidade também com Linux, Git e SQL.
 
 -Inglês intermediário/avançado.
 
