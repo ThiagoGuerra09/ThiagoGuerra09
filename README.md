@@ -1,7 +1,7 @@
 ### Um pouco sobre mim!  👋
 
 Olá, sou o Thiago Guerra tenho 22 anos, facilidade em relacionamento interpessoal, boa oratória e muita proatividade em encarar novos desafios. 
-Formado em Ciências da Computação na PUC Minas.💻
+Formado em Ciência da Computação na PUC Minas.💻
 
 -Profissional dinâmico e engajado no aprendizado de novas tecnologias. 
 
