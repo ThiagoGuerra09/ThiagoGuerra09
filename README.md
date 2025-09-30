@@ -40,6 +40,8 @@ Formado em Ciência da Computação na PUC Minas.💻
 </div>
 
 
+![Snake animation](https://raw.githubusercontent.com/ThiagoGuerra09/ThiagoGuerra09/output/github-contribution-grid-snake.svg)
+
 
   ![Snake animation](https://github.com/ThiagoGuerra09/ThiagoGuerra09/blob/output/github-contribution-grid-snake.svg)
 
